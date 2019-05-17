@@ -28,6 +28,7 @@ function alpha_string46(s){
 }
 ```
 
+
 ## 다른사람 풀이
 ```javascript
 function alpha_string46(s){
