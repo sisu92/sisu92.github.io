@@ -43,10 +43,8 @@ nav:
     # - { Categories All: '/blog/categories/' }
 
     - { 알고리즘 문제풀이: '/blog/categories/#알고리즘-문제풀이' }
-    - '/'
-    # - {Categories All: '/bolg/categories/'}
-      -{ JavaStudy : '/blog/categories/#JavaStudy'} 
-
+    - { JavaStudy: '/blog/categories/#JavaStudy' }
+      
     # - { Tags: '/blog/tags/' }
   About:
     - '/about/'
